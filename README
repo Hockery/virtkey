@@ -33,6 +33,5 @@ License:
     Please, see the file COPYING and COPYING.LESSER for details.
 
 
--------
-
-depend on 'glib-2.0', 'gdk-3.0', 'x11', 'xtst', 'xkbfile'
+Depend:
+    'glib-2.0', 'gdk-3.0', 'x11', 'xtst', 'xkbfile'
